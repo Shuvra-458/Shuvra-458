@@ -107,8 +107,8 @@
 ## 🚩 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shuvra-458&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Shuvra-458&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shuvra-458&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Shuvra-458&theme=radical&hide_border=true" height="170" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shuvra-458&theme=react-dark&hide_border=true" height="200"/>
