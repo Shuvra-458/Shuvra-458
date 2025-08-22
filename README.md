@@ -148,5 +148,5 @@
 </p>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=F7971E&center=true&width=600&lines=Building+things+that+make+a+difference,+one+repo+at+a+time." alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=F7971E&center=true&width=900&lines=Building+things+that+make+a+difference,+one+repo+at+a+time." alt="Typing SVG" />
 </p>
