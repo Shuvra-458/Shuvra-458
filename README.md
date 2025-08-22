@@ -113,7 +113,7 @@
   <img src="https://streak-stats.demolab.com?user=Shuvra-458&theme=radical&hide_border=true" height="170" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shuvra-458&theme=react-dark&hide_border=true" height="200"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shuvra-458&theme=react-dark&hide_border=true" height="200"/>
 </p>
 
 ---
