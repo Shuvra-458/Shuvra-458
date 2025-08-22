@@ -3,13 +3,6 @@
 <!-- Animated Header -->
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Innovating%20with%20Code%20%7C%20Explore%20My%20Projects&fontSize=40&fontAlign=50&fontColor=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20Shuvra's%20World!&fontSize=40&fontAlign=50&fontColor=FFFFFF" />
-</p>
 
 ---
 
