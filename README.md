@@ -1,8 +1,13 @@
 <!-- Profile README for Shuvra-458 -->
 
-<!-- Animated Header -->
+<!-- Animated Header with Professional Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=800&color=F7971E&center=true&width=900&lines=Hey%2C+I'm+Shuvra!;Crafting+Solutions+with+Code+%F0%9F%94%A5;Empowering+Ideas+Through+Innovation+%F0%9F%92%A1;Explore+My+Developer+Journey!+%F0%9F%8C%88" alt="Typing SVG" />
+</p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=header&text=Innovator%20|%20Engineer%20|%20Creator&fontSize=38&fontAlign=50&fontColor=FFFFFF" />
+</p>
 
 ---
 
@@ -26,34 +31,60 @@
 
 ## 🎨 About Me
 
-- 🧑‍💻 <span style="color:#F7971E"><b>Versatile Developer:</b></span> Python | JavaScript | C++ | Django | Flask  
-- 🔒 <span style="color:#43E97B"><b>Cybersecurity Enthusiast:</b></span> Secure, efficient tools for real-world impact  
-- 🤖 <span style="color:#1FA2FF"><b>Automation Buff:</b></span> Making life easier—one script at a time  
-- 💡 <span style="color:#FF5858"><b>AI Explorer:</b></span> ML, Stable Diffusion, and more  
-- 🌱 <span style="color:#FF6A00"><b>Always Growing:</b></span> Forever learning, forever building  
+<div align="center">
+
+<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="180" align="right"/>
+
+<table>
+<tr>
+  <td><b>🧑‍💻 Versatile Developer:</b></td>
+  <td>Python | JavaScript | C++ | Django | Flask</td>
+</tr>
+<tr>
+  <td><b>🔒 Cybersecurity Enthusiast:</b></td>
+  <td>Secure, efficient tools for real-world impact</td>
+</tr>
+<tr>
+  <td><b>🤖 Automation Buff:</b></td>
+  <td>Making life easier—one script at a time</td>
+</tr>
+<tr>
+  <td><b>💡 AI Explorer:</b></td>
+  <td>ML, Stable Diffusion, and more</td>
+</tr>
+<tr>
+  <td><b>🌱 Always Growing:</b></td>
+  <td>Forever learning, forever building</td>
+</tr>
+</table>
+</div>
 
 ---
 
 ## 🌟 Featured Projects
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Explore%20My%20Highlights-F7971E?style=for-the-badge&logo=starship&logoColor=white" />
+</p>
+
 <table>
 <tr>
-  <td align="center"><a href="https://github.com/Shuvra-458/DevTools-Suite"><img src="https://skillicons.dev/icons?i=python,django" width="40" /><br/><b>DevTools-Suite</b></a></td>
-  <td align="center"><a href="https://github.com/Shuvra-458/Trading-Simulator"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/><b>Trading-Simulator</b></a></td>
-  <td align="center"><a href="https://github.com/Shuvra-458/Image-Generator-Stable-Diffusion-1.5-"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/><b>Image Generator</b></a></td>
-  <td align="center"><a href="https://github.com/Shuvra-458/URL-Shortener"><img src="https://skillicons.dev/icons?i=django" width="40"/><br/><b>URL-Shortener</b></a></td>
+  <td align="center"><a href="https://github.com/Shuvra-458/DevTools-Suite"><img src="https://skillicons.dev/icons?i=python,django" width="48" /><br/><b>DevTools-Suite</b></a></td>
+  <td align="center"><a href="https://github.com/Shuvra-458/Trading-Simulator"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>Trading-Simulator</b></a></td>
+  <td align="center"><a href="https://github.com/Shuvra-458/Image-Generator-Stable-Diffusion-1.5-"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>Image Generator</b></a></td>
+  <td align="center"><a href="https://github.com/Shuvra-458/URL-Shortener"><img src="https://skillicons.dev/icons?i=django" width="48"/><br/><b>URL-Shortener</b></a></td>
 </tr>
 <tr>
   <td align="center"><sub>All-in-one dev toolkit</sub></td>
   <td align="center"><sub>Simulate & strategize trades</sub></td>
-  <td align="center"><sub>AI image from prompts</sub></td>
+  <td align="center"><sub>AI images from prompts</sub></td>
   <td align="center"><sub>Shorten & manage links</sub></td>
 </tr>
 <tr>
-  <td align="center"><a href="https://github.com/Shuvra-458/port_scanner"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/><b>port_scanner</b></a></td>
-  <td align="center"><a href="https://github.com/Shuvra-458/Spam-Email-Detector"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/><b>Spam-Email-Detector</b></a></td>
-  <td align="center"><a href="https://github.com/Shuvra-458/Transcriptor"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/><b>Transcriptor</b></a></td>
-  <td align="center"><a href="https://github.com/Shuvra-458/digital_wallet_project"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/><b>Digital Wallet</b></a></td>
+  <td align="center"><a href="https://github.com/Shuvra-458/port_scanner"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>port_scanner</b></a></td>
+  <td align="center"><a href="https://github.com/Shuvra-458/Spam-Email-Detector"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>Spam-Email-Detector</b></a></td>
+  <td align="center"><a href="https://github.com/Shuvra-458/Transcriptor"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>Transcriptor</b></a></td>
+  <td align="center"><a href="https://github.com/Shuvra-458/digital_wallet_project"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>Digital Wallet</b></a></td>
 </tr>
 <tr>
   <td align="center"><sub>Lightning-fast scanning</sub></td>
@@ -73,11 +104,11 @@
 
 ---
 
-## 📈 GitHub Stats & Graphs
+## 🚩 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shuvra-458&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Shuvra-458&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shuvra-458&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Shuvra-458&theme=tokyonight&hide_border=true" height="170" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shuvra-458&theme=react-dark&hide_border=true" height="200"/>
@@ -89,13 +120,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shuvrajyoti-nayak-b193a231a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shuvra458@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Shuvra-458?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Profile-333?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -106,6 +137,7 @@
 - 🧩 I love puzzles and algorithm challenges!
 - 🎶 I blend tech with music and creativity.
 - 🌏 Always open to collaborations—let’s build something amazing together!
+- 🌟 My code is as colorful as my imagination!
 
 ---
 
@@ -114,5 +146,5 @@
 </p>
 
 <p align="center">
-  <b>“<span style='color:#F7971E'>Building things that make a difference, one repo at a time.</span>”</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=F7971E&center=true&width=600&lines=“Building+things+that+make+a+difference,+one+repo+at+a+time.”" alt="Typing SVG" />
 </p>
