@@ -2,7 +2,9 @@
 
 <!-- Animated Header with Professional Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=800&color=F7971E&center=true&width=900&lines=Hey%2C+I'm+Shuvra!;Crafting+Solutions+with+Code+%F0%9F%94%A5;Empowering+Ideas+Through+Innovation+%F0%9F%92%A1;Explore+My+Developer+Journey!+%F0%9F%8C%88" alt="Typing SVG" />
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=F7971E&center=true&width=600&lines=Building+things+that+make+a+difference,+one+repo+at+a+time." alt="Typing SVG" />
+</p>
 </p>
 
 <p align="center">
