@@ -2,7 +2,11 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=700&color=F7971E&center=true&width=900&lines=Hey%2C+I'm+Shuvra!;Builder+%7C+Dreamer+%7C+Lifelong+Learner;Welcome+to+My+Colorful+GitHub+Universe!+🌈" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=700&color=F7971E&center=true&width=900&lines=Hey%2C+I'm+Shuvra!;Builder+%7C+Dreamer+%7C+Lifelong+Learner;Welcome+to+My+Crib!+🌈" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Innovating%20with%20Code%20%7C%20Explore%20My%20Projects&fontSize=40&fontAlign=50&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
