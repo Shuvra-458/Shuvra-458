@@ -101,7 +101,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,js,cpp,c#,django,flask,html,css,git,linux,postgres,redis,docker,jenkins,terraform,aws" />
+  <img src="https://skillicons.dev/icons?i=python,go,js,cpp,cs,django,flask,html,css,git,linux,postgres,redis,docker,jenkins,terraform,aws" />
 </p>
 
 ---
