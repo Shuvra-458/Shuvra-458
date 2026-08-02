@@ -40,7 +40,7 @@
 <table>
 <tr>
   <td><b>🧑‍💻 Versatile Developer:</b></td>
-  <td>Python | JavaScript | C++ | Django | Flask</td>
+  <td>Python | JavaScript | C++ | C# | Go</td>
 </tr>
 <tr>
   <td><b>🔒 Cybersecurity Enthusiast:</b></td>
